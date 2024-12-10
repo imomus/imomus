@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @imomus aka Om Ujjwal Singh
-- 🌱 I’m currently learning ...Language C and DSA
+- 🌱 I completed cs50x.
+- I am learning ML these days.
 - 💞️ I’m looking to collaborate on anything RELATED.
 - 📫 email: imomujjwalsingh@gmail.com, insta:om_ujjwal_3125
 
